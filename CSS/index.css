@@ -16,8 +16,6 @@ html, body{
         height: 40px;
     }
 .botao1{
-    width: 400px;
-    height: 200px;
     background-color: #B8DDD3;
     border-radius: 20px;
     justify-content: center;
@@ -34,4 +32,7 @@ html, body{
 .cato{
     width: 100px;
     text-align: right;
+}
+footer{
+    background-color: #B8DDD3;
 }
