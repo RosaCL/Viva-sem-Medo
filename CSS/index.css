@@ -2,7 +2,6 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-size: 1em;
     box-sizing: border-box;
     font-family: "Road Rage", serif;;
     }
@@ -19,6 +18,9 @@ html, body{
     background-color: #B8DDD3;
     border-radius: 20px;
     justify-content: center;
+    box-shadow: black 1px 1px 1px;
+    margin: 10px;
+    
 }
 .txt{
     text-align: center;
@@ -28,10 +30,14 @@ html, body{
     text-align: center;
     font-size: 5em;
     color: #E68888;
+    display: inline-block;
 }
 .cato{
-    width: 100px;
-    text-align: right;
+    width: 100px;  
+    position: sticky;
+    left:300px;
+    display: inline-block;
+    
 }
 footer{
     background-color: #B8DDD3;
