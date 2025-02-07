@@ -2,8 +2,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;
-    font-family: "Road Rage", serif;
+    box-sizing: border-box;    
     }
 html, body{
         width: 100vw;
@@ -20,21 +19,15 @@ html, body{
     justify-content: center;
     box-shadow: black 1px 1px 1px;
     margin: 10px;
+
     
 }
 .txt{
     text-align: center;
-    font-size: 3em; 
-    text-decoration: none;   
+    font-size: 3em;  
+    font-family: "Road Rage", serif;  
 }
-.txtl{
-    text-decoration: none;
-    font-size: 3em;
-    text-align: center;
-    color: black;
-    margin-left: 20px;
 
-}
 .cato{
     width: 100px;  
     position: sticky;
@@ -42,16 +35,18 @@ html, body{
     display: inline-block;
     
 }
-.bigcato{
-    width: 100px;  
-    position: sticky;
-    right: 300px;      
-    
+.nocallen{
+    width: 40px;
+}
+p{
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+    font-size: 1em;
 }
 .consti{
     width: 180px;
 }
-
 footer{
     background-color: #B8DDD3;
     text-align: center;
