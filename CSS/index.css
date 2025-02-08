@@ -23,16 +23,20 @@ html, body{
     
 }
 .txt{
+    text-decoration: none;
+    font-size: 3em;
     text-align: center;
-    font-size: 3em; 
-    text-decoration: none;   
+    color: black;
+    margin-left: 150px;
+
 }
+
 .txtl{
     text-decoration: none;
     font-size: 3em;
     text-align: center;
     color: black;
-    margin-left: 20px;
+    margin-left: 120px;
 
 }
 .cato{
