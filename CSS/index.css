@@ -20,7 +20,7 @@ html, body{
     justify-content: center;
     box-shadow: black 1px 1px 1px;
     margin: 10px;
-    
+   height: 95px;
 }
 .txt{
     text-decoration: none;
@@ -49,7 +49,7 @@ html, body{
 .bigcato{
     width: 100px;  
     position: sticky;
-    right: 300px;      
+    right: 400px;      
     
 }
 .consti{
