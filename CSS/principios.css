@@ -1,0 +1,55 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;    
+    }
+html, body{
+        width: 100vw;
+        height: 100vh;
+    
+    }
+.logo{
+        width: 40px;
+        height: 40px;
+    }
+.botao1{
+    background-color: #B8DDD3;
+    border-radius: 20px;
+    justify-content: center;
+    box-shadow: black 1px 1px 1px;
+    margin: 10px;
+    height: 215px;
+
+    
+}
+.txt{
+    text-align: center;
+    font-size: 3em;  
+    font-family: "Road Rage", serif; 
+    flex-direction: column;
+}
+
+.cato{
+    width: 100px;  
+    position: sticky;
+    left:300px;    
+    display: inline-block;
+    
+}
+.nocallen{
+    width: 40px;
+}
+p{
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+    font-size: 1em;
+}
+.consti{
+    width: 50px;
+}
+footer{
+    background-color: #B8DDD3;
+    text-align: center;
+}
