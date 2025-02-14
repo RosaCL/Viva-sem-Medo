@@ -19,9 +19,7 @@ html, body{
     justify-content: center;
     box-shadow: black 1px 1px 1px;
     margin: 10px;
-    height: 215px;
-
-    
+    height: 215px;   
 }
 .txt{
     text-align: center;
