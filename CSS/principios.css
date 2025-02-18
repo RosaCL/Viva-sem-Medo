@@ -29,14 +29,17 @@ html, body{
 }
 .vitma{
     color: #E68888;
+    border-radius: 20px;   
+    text-align: center;
     border-radius: 20px;
-    box-shadow: black 1px 1px 1px;
     margin: 10px;
+    padding: 30px;    
+    border: 1px solid black;
 }
 .agressor{
     color: #B8DDD3;
     border-radius: 20px;
-    box-shadow: black 1px 1px 1px;
+    border: 1px solid black;
     margin: 10px;
 }
 .bloco1{
@@ -54,7 +57,7 @@ html, body{
 .cato{
     width: 100px;  
     position: sticky;
-    left:300px;    
+    right: 700px;      
     display: inline-block;
     
 }
