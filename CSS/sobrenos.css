@@ -19,46 +19,25 @@ html, body{
     justify-content: center;
     box-shadow: black 1px 1px 1px;
     margin: 10px;
-    height: 215px;   
+
+    
 }
 .txt{
     text-align: center;
     font-size: 3em;  
-    font-family: "Road Rage", serif; 
-    flex-direction: column;
+    font-family: "Road Rage", serif;  
 }
-.vitma{
-    color: #E68888;
-    border-radius: 20px;
-    box-shadow: black 1px 1px 1px;
-    margin: 10px;
-}
-.agressor{
-    color: #B8DDD3;
-    border-radius: 20px;
-    box-shadow: black 1px 1px 1px;
-    margin: 10px;
-}
-.bloco1{
-    background-color: #E68888;
-    border-radius: 20px;
-    box-shadow: black 1px 1px 1px;
-    margin: 10px;
-}
-.bloco2{
-    background-color: #B8DDD3;
-    border-radius: 20px;
-    box-shadow: black 1px 1px 1px;
-    margin: 10px;
-}
+
 .cato{
     width: 100px;  
     position: sticky;
-    left:300px;    
+    left:300px;
     display: inline-block;
     
 }
-
+.sobre{
+    text-align: center;
+}
 p{
     margin: 10px;
     padding: 10px;
